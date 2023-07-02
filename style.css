@@ -17,6 +17,10 @@
     .project-3 {
         padding: 20px 0;
     }
+
+    .project-5 #add-task-container {
+    width: 80%;
+    }
   }
   
 
@@ -292,8 +296,6 @@
 
 #add-task-container {
     width: 50%;
-    max-width: 500px;
-    min-width: 350px;
     padding: 20px;
     background: #fff;
     border-radius: 15px;
@@ -304,7 +306,7 @@
 }
 
 input {
-    flex: 3;
+    width: 80%;
     margin-right: 10px;
     border-radius: 10px;
     font-size: 1.2rem;
@@ -312,7 +314,7 @@ input {
 }
 
 #add-task {
-    flex: 1;
+    width: 20%;
     transition: .3s;
 
     font-size: 1.2rem;
