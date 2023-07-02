@@ -80,7 +80,7 @@
 /* Modal Styling */
 
 .project-2{
-    background: url(../images/laptop\ code.jpg) no-repeat center center/ cover;
+    background: url(images/laptop\ code.jpg) no-repeat center center/ cover;
     height: 50vh;
     width: 100vw;
     position: relative;
@@ -156,7 +156,7 @@
 /* Accordion */
 
 .project-3 {
-    background: url(../images/faq.jpg) no-repeat center center/cover;
+    background: url(images/faq.jpg) no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -222,7 +222,7 @@
 .project-4 {
     width: 100vw;
     height: 50vh;
-    background: url(../images/Stop\ watch.jpg) no-repeat center center / cover;
+    background: url(images/Stop\ watch.jpg) no-repeat center center / cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -277,7 +277,7 @@
 /* To do list */
 
 .project-5 {
-    background: url(../images/Checklist\ desk.jpg) no-repeat center center/cover;
+    background: url(images/Checklist\ desk.jpg) no-repeat center center/cover;
     height: 50%;
 
     display: flex;
